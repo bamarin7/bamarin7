@@ -6,6 +6,7 @@
 - 💼 &nbsp; Currently looking for Full-Stack, Mobile, and Web Developer roles!
 - 🌱 &nbsp; Learning more about Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Graphic Design enthusiast and a fan of constantly challenging myself (look up David Goggins).
+- ⚡ &nbsp; Fun fact: I speak Spanish, Italian, and English! 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
