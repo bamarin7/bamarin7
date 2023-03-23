@@ -2,15 +2,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- :octocat: &nbsp; Passionate about exploring new technologies and developing software solutions!
 - 💼 &nbsp; Currently looking for Full-Stack, Mobile, and Web Developer roles!
 - 🌱 &nbsp; Learning more about Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Graphic Design enthusiast and a fan of constantly challenging myself (look up David Goggins).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -18,6 +16,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -40,7 +40,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Let's connect and forge the future together! </h3>
+<h3> :coffee: &nbsp;Let's stay in touch! </h3>
 
 <p align="left">
 <a href="https://www.bamarin.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bamarin.com-blue?style=flat-square&logo=google-chrome"></a>
